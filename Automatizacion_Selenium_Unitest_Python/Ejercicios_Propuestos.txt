@@ -1,0 +1,20 @@
+Ejercicio 1: Iniciar Sesión en un Sitio Web
+Automatiza el proceso de iniciar sesión en un sitio web. Utiliza Selenium para abrir el navegador, navegar hasta la página de inicio de sesión, e ingresa un nombre de usuario y contraseña. Asegúrate de manejar casos como campos incorrectos, si es necesario.
+
+Ejercicio 2: Buscar y Hacer Captura de Pantalla
+Automatiza una búsqueda en un motor de búsqueda como Google. Luego, haz una captura de pantalla de los resultados de la búsqueda y guárdala en tu sistema de archivos.
+
+Ejercicio 3: Llenar un Formulario
+Automatiza el proceso de completar un formulario en un sitio web. Navega hasta la página del formulario, completa los campos requeridos, y envía el formulario. Puedes utilizar un sitio web de pruebas o crear uno propio para este propósito.
+
+Ejercicio 4: Extraer Datos de una Tabla
+Navega a una página web que contenga una tabla de datos. Utiliza Selenium para extraer los datos de la tabla y guárdalos en una estructura de datos en Python, como una lista de diccionarios.
+
+Ejercicio 5: Navegación entre Ventanas y Pestañas
+Automatiza la apertura de una nueva ventana o pestaña del navegador desde un enlace en una página web. Luego, cambia el enfoque a la nueva ventana o pestaña y realiza alguna acción.
+
+Ejercicio 6: Verificar la Disponibilidad de Enlaces
+Automatiza la verificación de enlaces en una página web. Puedes buscar todos los enlaces en una página y verificar si están activos (devuelven un código de estado HTTP 200) o si hay enlaces rotos.
+
+Recuerda que al realizar automatización web, es fundamental tener en cuenta los términos de servicio del sitio web y asegurarte de no violar ninguna política o reglamentación.
+
